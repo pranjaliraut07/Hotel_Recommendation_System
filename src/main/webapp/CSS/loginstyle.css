@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.LoginContainer{
+	width:600px;
+	height:300px;
+	background-color:navy;
+	border-radius:5px;
+	padding:10px;
+	position: relative;
+	left: 300px;
+	top:100px;
+}
+.subcont{
+	position:absolute;
+	width:500px;
+	height:200px;
+	list-style-type:none;
+	left:40px;
+	top:20px;
+}
+.subcont li{
+	padding:10px;
+}
+.control{
+	width:400px;
+	height:40px;
+}
